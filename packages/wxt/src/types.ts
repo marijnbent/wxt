@@ -996,7 +996,7 @@ export interface ExtensionRunnerConfig {
    *     synced_preferences_sync_disabled: {
    *       skipContentScripts: false,
    *     },
-   *   }
+   *   },
    *   extensions: {
    *     ui: {
    *       developer_mode: true,
